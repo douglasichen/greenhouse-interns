@@ -1,0 +1,59 @@
+https://c3.ai/job-description/8739266002?gh_jid=8739266002	c3iot	QA Engineer - Intern (Summer 2027)	2026-10-01T11:58:01-04:00
+https://c3.ai/job-description/8739323002?gh_jid=8739323002	c3iot	Software Engineer - Intern (Summer 2027)	2026-10-01T11:59:02-04:00
+https://c3.ai/job-description/8860563002?gh_jid=8860563002	c3iot	AI Product Manager - MBA Intern (Summer 2027)	2026-10-02T14:52:43-04:00
+https://careers.withwaymo.com/jobs?gh_jid=8238525	waymo	2027 Summer Intern, BS, Software Engineering, Labeling	2026-09-30T13:54:30-04:00
+https://careers.withwaymo.com/jobs?gh_jid=8240198	waymo	2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform	2026-09-30T14:03:17-04:00
+https://careers.withwaymo.com/jobs?gh_jid=8248060	waymo	2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern	2026-10-01T18:30:20-04:00
+https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002	databricks	Software Engineering Intern (2027 Start) - London	2026-10-02T10:39:23-04:00
+https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101	cambridgeconsultantslimited	Cloud Software Engineering Internship (2027 start)	2026-10-01T09:52:23-04:00
+https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995733101	cambridgeconsultantslimited	Software Engineering Internship (2027 start)	2026-10-01T12:33:46-04:00
+https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995787101	cambridgeconsultantslimited	Software Test Engineering Internship (2027 start)	2026-10-01T13:06:54-04:00
+https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101	veeamsoftware	Competitive Intelligence AI Engineering Intern - Summer 2027	2026-10-01T16:00:18-04:00
+https://job-boards.greenhouse.io/ambiqmicroinc/jobs/4406486009	ambiqmicroinc	AI-Assisted Foundation IP Development Intern	2026-09-29T04:10:43-04:00
+https://job-boards.greenhouse.io/ambiqmicroinc/jobs/4406491009	ambiqmicroinc	AI-Assisted Memory Design Intern	2026-09-29T06:34:33-04:00
+https://job-boards.greenhouse.io/amca/jobs/4425120009	amca	Software Engineering Internship (Summer 2027)	2026-09-29T18:04:08-04:00
+https://job-boards.greenhouse.io/c3ascend/jobs/8860562002	c3ascend	AI Product Manager - MBA Intern (Summer 2027)	2026-10-02T14:52:40-04:00
+https://job-boards.greenhouse.io/enova/jobs/8239619	enova	Software Engineer Internship Summer 2027 (Hybrid)	2026-09-29T10:39:00-04:00
+https://job-boards.greenhouse.io/formlabsinternships/jobs/8223362	formlabsinternships	Desktop Software Intern (Summer 2027)	2026-09-28T13:04:46-04:00
+https://job-boards.greenhouse.io/gassouth/jobs/8247622	gassouth	Software Engineering Intern	2026-10-01T16:30:28-04:00
+https://job-boards.greenhouse.io/genscript/jobs/5253581007	genscript	AI Intern, Enterprise Agent Development	2026-09-30T17:36:33-04:00
+https://job-boards.greenhouse.io/gitai/jobs/5437128008	gitai	Field-Deployed Software Engineering Intern – Fall 2026 / Spring 2027	2026-09-28T19:38:42-04:00
+https://job-boards.greenhouse.io/hackerrank/jobs/8229735	hackerrank	Software Development Engineer Intern	2026-10-01T05:54:08-04:00
+https://job-boards.greenhouse.io/mirakl/jobs/5232778004	mirakl	Business Developer Intern - Mirakl Ads	2026-10-01T10:37:56-04:00
+https://job-boards.greenhouse.io/miraklfr/jobs/6215262004	miraklfr	Business Developer Intern - Mirakl Ads	2026-10-02T04:58:27-04:00
+https://job-boards.greenhouse.io/mirakllabs/jobs/6212077004	mirakllabs	Software Engineer Intern - Ads	2026-10-01T04:06:10-04:00
+https://job-boards.greenhouse.io/mirakllabs/jobs/6212089004	mirakllabs	Software Engineer Intern - Financial Services	2026-10-01T04:21:55-04:00
+https://job-boards.greenhouse.io/mirakllabs/jobs/6212736004	mirakllabs	Software Engineer Intern - Ads	2026-10-01T04:06:08-04:00
+https://job-boards.greenhouse.io/moloco/jobs/8007407003	moloco	Software Engineer Intern (3 months)	2026-09-28T20:56:51-04:00
+https://job-boards.greenhouse.io/muonspace/jobs/5247725007	muonspace	Flight Software Engineering Intern (Summer 2027)	2026-09-30T15:59:38-04:00
+https://job-boards.greenhouse.io/muonspace/jobs/5252680007	muonspace	GNC Software Engineering Intern (Summer 2027)	2026-09-29T20:47:29-04:00
+https://job-boards.greenhouse.io/natera/jobs/6188497004	natera	Software Engineering Intern	2026-10-02T15:12:01-04:00
+https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403876009	nationallifeinsurancecompany	Digital & AI Experience Intern – Summer 2027	2026-09-29T10:19:11-04:00
+https://job-boards.greenhouse.io/profluent/jobs/5441955008	profluent	Intern, Software Engineering	2026-10-02T01:41:43-04:00
+https://job-boards.greenhouse.io/riotgamesup/jobs/8222015	riotgamesup	Software Engineering Intern - Summer 2027 (Remote)	2026-10-01T12:00:00-04:00
+https://job-boards.greenhouse.io/schonfeld/jobs/8238451	schonfeld	2027 Quantitative C++ Developer Intern	2026-09-29T10:30:14-04:00
+https://job-boards.greenhouse.io/spcareers/jobs/6211855004	spcareers	Mobile Developer Intern (C++)	2026-10-01T09:07:45-04:00
+https://job-boards.greenhouse.io/vardaspace/jobs/8010159003	vardaspace	Flight Software Internship - Summer 2027	2026-10-01T02:03:43-04:00
+https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009	voyagertechnologiesinc	2027 Software Engineering Intern	2026-09-28T17:17:14-04:00
+https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006	walleyecapital-external-students	Special Projects Developer Intern (Summer 2027)	2026-10-01T18:23:29-04:00
+https://job-boards.greenhouse.io/xai/jobs/5252108007	xai	Spring 2027 Software Engineering Internship/Co-op	2026-10-02T15:15:20-04:00
+https://job-boards.greenhouse.io/xai/jobs/5255111007	xai	Summer 2027 Software Engineering Internship/Co-op	2026-10-02T15:15:13-04:00
+https://job-boards.greenhouse.io/xtillion/jobs/5436823008	xtillion	2027 Internship Program: Associate Software Engineer	2026-09-30T10:58:36-04:00
+https://job-boards.greenhouse.io/zyngacareers/jobs/6212933004	zyngacareers	Mobile Developer Intern (C++)	2026-10-01T09:08:19-04:00
+https://nuro.ai/careersitem?gh_jid=8222063	nuro	Social Media Intern	2026-09-29T15:13:58-04:00
+https://plata.careers/vacancy/details?id=5441910008&gh_jid=5441910008	platacard	AI Creative Marketer (Intern)	2026-10-01T20:42:30-04:00
+https://stripe.com/jobs/search?gh_jid=8241260	stripe	High School Internship, Software Engineering (Summer 2027)	2026-09-30T11:38:09-04:00
+https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827768002	coveoen	Backend Developer Intern, Winter 2027	2026-09-28T16:56:58-04:00
+https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002	coveoen	Frontend Developer Intern, Winter 2027	2026-09-28T19:39:26-04:00
+https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827780002	coveoen	Software Developer Intern (Professional Services team), Winter 2027	2026-09-28T16:57:21-04:00
+https://www.coveo.com/en/company/careers/open-positions?gh_jid=8851660002	coveoen	Software Developer Intern (Professional Services team), Winter 2027	2026-09-28T16:57:24-04:00
+https://www.coveo.com/en/company/careers/open-positions?gh_jid=8851717002	coveoen	Backend Developer Intern, Winter 2027	2026-09-28T16:57:00-04:00
+https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002	coveoen	Frontend Developer Intern, Winter 2027	2026-09-28T19:39:28-04:00
+https://www.gonitro.com/about/careers/8245629?gh_jid=8245629	nitrosoftwareinc	Intern Software Engineer (C++)	2026-10-01T10:23:11-04:00
+https://www.lgresearch.ai/careers?gh_jid=4738783005	lgairesearch	AI for Chemistry Research Scientist Internship	2026-09-29T00:25:45-04:00
+https://www.mastercontrol.com/careers/job-listings/role/?role=4738478005&gh_jid=4738478005	mastercontrol	AI/ML Engineering Intern	2026-10-02T13:31:47-04:00
+https://www.pinterestcareers.com/jobs/?gh_jid=7838577	pinterest	Software Engineer Intern 2027 (USA)	2026-10-01T13:03:52-04:00
+https://www.pinterestcareers.com/jobs/?gh_jid=8138034	pinterest	Software Engineering Intern 2027 (Dublin)	2026-10-01T13:03:29-04:00
+https://www.pinterestcareers.com/jobs/?gh_jid=8138039	pinterest	Software Engineering Intern 2027 (Toronto)	2026-10-01T13:03:18-04:00
+https://www.pinterestcareers.com/jobs/?gh_jid=8214745	pinterest	Software Engineering Intern 2027 (Zurich)	2026-10-01T13:02:55-04:00
+https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014	riotgames	Software Engineering Intern - Summer 2027 (Remote)	2026-10-01T12:00:00-04:00
