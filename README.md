@@ -17,7 +17,7 @@ cat candidates.txt | GAP=0.1 python3 check.py myid
 
 # SWE-only filter
 grep -iE 'software|developer|\bai\b|technical staff' internships_last_100h.txt \
-  | grep -viE 'embedded|hardware|firmware|fpga|asic|electrical|electronics|mechanical|circuit|pcb|silicon|actuator|finance|marketing|sales|recruit|talent|operations' \
+  | grep -viE 'embedded|hardware|firmware|fpga|asic|electrical|electronics|mechanical|circuit|pcb|silicon|actuator|finance|marketing|marketer|sales|recruit|talent|operations|business|social|creative|product manager|mba' \
   > internships_last_100h_swe.txt
 ```
 
